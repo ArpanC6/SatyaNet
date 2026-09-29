@@ -1,0 +1,8 @@
+[project]
+name = "satyanet"
+version = "1.0.0"
+description = "Trust-Aware Field Intelligence for Disaster Response"
+requires-python = ">=3.11"
+
+[tool.streamlit]
+config = ".streamlit/config.toml"

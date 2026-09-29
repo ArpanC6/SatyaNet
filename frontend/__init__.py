@@ -1,0 +1,1 @@
+"""SatyaNet Frontend package."""
